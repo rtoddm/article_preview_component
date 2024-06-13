@@ -14,7 +14,7 @@ This is a project that I completed with HTML, CSS, and JavaScript. This website 
 
 ### Links
 
-- Live Site URL: (https://rtoddm.github.io/recipe_page/)
+- Live Site URL: ([Preview Component](https://rtoddm.github.io/article_preview_component/))
 
 ## My process
 
