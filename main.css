@@ -208,7 +208,7 @@ footer {
   .top-section img {
     width: 285px;
     height: 280px;
-    border-radius: 0%;
+    border-radius: 5% 0% 0% 5%;
   }
 
   .first-paragraph {
