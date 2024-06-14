@@ -192,6 +192,7 @@ footer {
 
 @media (min-width: 930px) {
   body {
+    min-height: 100vh;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
