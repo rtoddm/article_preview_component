@@ -24,7 +24,7 @@ It was completed as a beginner challenge on **Frontend Mentor**, giving me pract
 While simple, it demonstrates clean code structure and component-level thinking that I’ve continued to build on in later projects.
 
 
-
+---
 
 
 ## Table of contents
