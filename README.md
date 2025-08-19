@@ -1,3 +1,32 @@
+# Article Preview Component
+
+> [!NOTE]  
+> 📰 **Learning Project** — This Article Preview Component was built with **HTML, CSS, and JavaScript** as part of a beginner challenge on [Frontend Mentor](https://www.frontendmentor.io/).  
+> It’s archived and not actively maintained, but remains hosted on GitHub Pages to showcase my early front-end practice.
+
+---
+
+## 🌐 Live Demo
+🔗 [View the Article Preview Component](https://rtoddm.github.io/article_preview_component/)
+
+---
+
+## 🛠 Tech Stack
+- HTML5  
+- CSS3  
+- JavaScript  
+
+---
+
+## 📖 About
+This project replicates a common **UI component** found on modern websites: an article preview with social sharing features.  
+It was completed as a beginner challenge on **Frontend Mentor**, giving me practice with responsive layout, styling, and adding interactivity with vanilla JavaScript.  
+While simple, it demonstrates clean code structure and component-level thinking that I’ve continued to build on in later projects.
+
+
+
+
+
 ## Table of contents
 
 - [Overview](#overview)
